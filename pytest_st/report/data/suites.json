@@ -1,0 +1,77 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "todayGogogo.testcase",
+    "children" : [ {
+      "name" : "test_feature",
+      "children" : [ {
+        "name" : "TestTodayGogogo",
+        "children" : [ {
+          "name" : "test_case_01",
+          "uid" : "2b7993e81f29d91b",
+          "parentUid" : "c222462178ea61ae26b1bf044cfa7420",
+          "status" : "broken",
+          "time" : {
+            "start" : 1605677800277,
+            "stop" : 1605677800277,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_case_02",
+          "uid" : "ee27320e9ab7cf5a",
+          "parentUid" : "c222462178ea61ae26b1bf044cfa7420",
+          "status" : "passed",
+          "time" : {
+            "start" : 1605677800362,
+            "stop" : 1605677800362,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_base_baidu",
+          "uid" : "d67f25d9ab7afb15",
+          "parentUid" : "c222462178ea61ae26b1bf044cfa7420",
+          "status" : "passed",
+          "time" : {
+            "start" : 1605677800372,
+            "stop" : 1605677800617,
+            "duration" : 245
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_querry_country",
+          "uid" : "45080b19199d5720",
+          "parentUid" : "c222462178ea61ae26b1bf044cfa7420",
+          "status" : "passed",
+          "time" : {
+            "start" : 1605677800630,
+            "stop" : 1605677800862,
+            "duration" : 232
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_login_customer",
+          "uid" : "c6ec6c0c8e26f6df",
+          "parentUid" : "c222462178ea61ae26b1bf044cfa7420",
+          "status" : "passed",
+          "time" : {
+            "start" : 1605677800894,
+            "stop" : 1605677801088,
+            "duration" : 194
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c222462178ea61ae26b1bf044cfa7420"
+      } ],
+      "uid" : "6c999212b50e3e01473f42a3393b4bb8"
+    } ],
+    "uid" : "d78b8a9180d4e68810911df33a9545df"
+  } ]
+}

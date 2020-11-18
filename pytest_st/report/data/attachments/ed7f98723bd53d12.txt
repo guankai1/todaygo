@@ -1,0 +1,1 @@
+[32mINFO    [0m root:conftest.py:27 {'success': True, 'code': '0', 'data': {'token': 'bb57911c19c4538b973669bfa2b36a96|tiens', 'uid': 120, 'passwordResetFlag': 0, 'passwordResetTime': None}, 'msg': 'success'}

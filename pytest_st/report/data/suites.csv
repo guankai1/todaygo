@@ -1,0 +1,10 @@
+"Status","Name","Duration in ms","Description"
+"passed","todayGogogo.testcase.test_feature.TestTodayGogogo#test_login_customer","194",""
+"broken","todayGogogo.testcase.test_feature.TestTodayGogogo#test_case_01","0","
+        用例描述：Test case 01
+        "
+"passed","todayGogogo.testcase.test_feature.TestTodayGogogo#test_case_02","0","
+        用例描述：Test case 02
+        "
+"passed","todayGogogo.testcase.test_feature.TestTodayGogogo#test_base_baidu","245",""
+"passed","todayGogogo.testcase.test_feature.TestTodayGogogo#test_querry_country","232",""

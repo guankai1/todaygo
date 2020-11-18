@@ -1,0 +1,5 @@
+setup.py
+qute_bjcontent_test.egg-info/PKG-INFO
+qute_bjcontent_test.egg-info/SOURCES.txt
+qute_bjcontent_test.egg-info/dependency_links.txt
+qute_bjcontent_test.egg-info/top_level.txt

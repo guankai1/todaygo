@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "TypeError: 'FixtureRequest' object is not subscriptable",
+      "children" : [ {
+        "name" : "test_case_01",
+        "uid" : "2b7993e81f29d91b",
+        "parentUid" : "6b05b81311eaff56001c034554853a5c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1605677800277,
+          "stop" : 1605677800277,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6b05b81311eaff56001c034554853a5c"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

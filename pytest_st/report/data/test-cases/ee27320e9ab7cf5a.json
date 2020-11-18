@@ -1,0 +1,93 @@
+{
+  "uid" : "ee27320e9ab7cf5a",
+  "name" : "test_case_02",
+  "fullName" : "todayGogogo.testcase.test_feature.TestTodayGogogo#test_case_02",
+  "historyId" : "7d5e3f2265a8d25214dc6d2230fe39c7",
+  "time" : {
+    "start" : 1605677800362,
+    "stop" : 1605677800362,
+    "duration" : 0
+  },
+  "description" : "\n        用例描述：Test case 02\n        ",
+  "descriptionHtml" : "<pre><code>    用例描述：Test case 02\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "auth_token",
+    "time" : {
+      "start" : 1605677799965,
+      "stop" : 1605677800275,
+      "duration" : 310
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "auth_token::0",
+    "time" : {
+      "start" : 1605677801103,
+      "stop" : 1605677801103,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "test_module_02"
+  }, {
+    "name" : "tag",
+    "value" : "P5"
+  }, {
+    "name" : "parentSuite",
+    "value" : "todayGogogo.testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_feature"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestTodayGogogo"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOPWinnie"
+  }, {
+    "name" : "thread",
+    "value" : "268-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "todayGogogo.testcase.test_feature"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "P5" ]
+  },
+  "source" : "ee27320e9ab7cf5a.json",
+  "parameterValues" : [ ]
+}

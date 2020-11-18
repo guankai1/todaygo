@@ -1,0 +1,51 @@
+[ {
+  "uid" : "c6ec6c0c8e26f6df",
+  "name" : "test_login_customer",
+  "time" : {
+    "start" : 1605677800894,
+    "stop" : 1605677801088,
+    "duration" : 194
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b7993e81f29d91b",
+  "name" : "test_case_01",
+  "time" : {
+    "start" : 1605677800277,
+    "stop" : 1605677800277,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ee27320e9ab7cf5a",
+  "name" : "test_case_02",
+  "time" : {
+    "start" : 1605677800362,
+    "stop" : 1605677800362,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d67f25d9ab7afb15",
+  "name" : "test_base_baidu",
+  "time" : {
+    "start" : 1605677800372,
+    "stop" : 1605677800617,
+    "duration" : 245
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45080b19199d5720",
+  "name" : "test_querry_country",
+  "time" : {
+    "start" : 1605677800630,
+    "stop" : 1605677800862,
+    "duration" : 232
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

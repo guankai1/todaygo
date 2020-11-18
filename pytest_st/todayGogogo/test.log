@@ -1,0 +1,486 @@
+2020-10-19 16:21:13 - <Response [200]>
+2020-10-19 16:21:13 - {}
+2020-10-19 16:21:13 - 
+----------------------------------REQUEST------------------------------------
+endpoint: POST https://mobile-hwdev2-site.jtmm.com/goodscenter/address/queryAllCountryInfo
+headers:
+  User-Agent: python-requests/2.23.0
+  Accept-Encoding: gzip, deflate
+  Accept: */*
+  Connection: keep-alive
+  Content-Type: application/json
+  Content-Length: 2
+body:
+ {}
+----------------------------------REQUEST------------------------------------
+2020-10-19 16:21:13 - 
+----------------------------------RESPONSE-----------------------------------
+status_code: 200
+headers:
+  Date: Mon, 19 Oct 2020 08:19:16 GMT
+  Content-Type: application/json
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  Server: Tengine
+  Vary: Accept-Encoding, Accept-Encoding
+  Access-Control-Allow-Origin: *
+  X-Kong-Upstream-Latency: 5
+  X-Kong-Proxy-Latency: 1
+  Via: kong/2.0.4
+  Content-Encoding: gzip
+body:
+  {
+      "code": "0",
+      "data": [
+          {
+              "countryCode": "SE",
+              "countryCodeThree": "SWE",
+              "countryName": "瑞典",
+              "countryNameEn": "Sweden",
+              "inteAreaCode": "46"
+          },
+          {
+              "countryCode": "LV",
+              "countryCodeThree": "LVA",
+              "countryName": "拉脱维亚",
+              "countryNameEn": "Latvia",
+              "inteAreaCode": "371"
+          },
+          {
+              "countryCode": "CZ",
+              "countryCodeThree": "CZE",
+              "countryName": "捷克",
+              "countryNameEn": "Czech Republic",
+              "inteAreaCode": "420"
+          },
+          {
+              "countryCode": "PL",
+              "countryCodeThree": "POL",
+              "countryName": "波兰",
+              "countryNameEn": "Poland",
+              "inteAreaCode": "48"
+          },
+          {
+              "countryCode": "HR",
+              "countryCodeThree": "HRV",
+              "countryName": "克罗地亚",
+              "countryNameEn": "Croatia",
+              "inteAreaCode": "385"
+          },
+          {
+              "countryCode": "PT",
+              "countryCodeThree": "PRT",
+              "countryName": "葡萄牙",
+              "countryNameEn": "Portugal",
+              "inteAreaCode": "351"
+          },
+          {
+              "countryCode": "NL",
+              "countryCodeThree": "NLD",
+              "countryName": "荷兰",
+              "countryNameEn": "Netherlands",
+              "inteAreaCode": "31"
+          },
+          {
+              "countryCode": "AM",
+              "countryCodeThree": "ARM",
+              "countryName": "亚美尼亚",
+              "countryNameEn": "Armenia",
+              "inteAreaCode": "374"
+          },
+          {
+              "countryCode": "FI",
+              "countryCodeThree": "FIN",
+              "countryName": "芬兰",
+              "countryNameEn": "Finland",
+              "inteAreaCode": "358"
+          },
+          {
+              "countryCode": "CY",
+              "countryCodeThree": "CYP",
+              "countryName": "塞浦路斯",
+              "countryNameEn": "Cyprus",
+              "inteAreaCode": "357"
+          },
+          {
+              "countryCode": "RO",
+              "countryCodeThree": "ROU",
+              "countryName": "罗马尼亚",
+              "countryNameEn": "Romania",
+              "inteAreaCode": "385"
+          },
+          {
+              "countryCode": "GB",
+              "countryCodeThree": "GBR",
+              "countryName": "英国",
+              "countryNameEn": "Great Britain (United Kingdom; England)",
+              "inteAreaCode": "44"
+          },
+          {
+              "countryCode": "HU",
+              "countryCodeThree": "HUN",
+              "countryName": "匈牙利",
+              "countryNameEn": "Hungary",
+              "inteAreaCode": "36"
+          },
+          {
+              "countryCode": "MT",
+              "countryCodeThree": "MLT",
+              "countryName": "马耳他",
+              "countryNameEn": "Malta",
+              "inteAreaCode": "356"
+          },
+          {
+              "countryCode": "BG",
+              "countryCodeThree": "BGR",
+              "countryName": "保加利亚",
+              "countryNameEn": "Bulgaria",
+              "inteAreaCode": "359"
+          },
+          {
+              "countryCode": "UA",
+              "countryCodeThree": "UKR",
+              "countryName": "乌克兰",
+              "countryNameEn": "Ukraine",
+              "inteAreaCode": "380"
+          },
+          {
+              "countryCode": "LU",
+              "countryCodeThree": "LUX",
+              "countryName": "卢森堡",
+              "countryNameEn": "Luxembourg",
+              "inteAreaCode": "352"
+          },
+          {
+              "countryCode": "LT",
+              "countryCodeThree": "LTU",
+              "countryName": "立陶宛",
+              "countryNameEn": "Lithuania",
+              "inteAreaCode": "370"
+          },
+          {
+              "countryCode": "DK",
+              "countryCodeThree": "DNK",
+              "countryName": "丹麦",
+              "countryNameEn": "Denmark",
+              "inteAreaCode": "45"
+          },
+          {
+              "countryCode": "GR",
+              "countryCodeThree": "GRC",
+              "countryName": "希腊",
+              "countryNameEn": "Greece",
+              "inteAreaCode": "30"
+          },
+          {
+              "countryCode": "IE",
+              "countryCodeThree": "IRL",
+              "countryName": "爱尔兰",
+              "countryNameEn": "Ireland",
+              "inteAreaCode": "353"
+          },
+          {
+              "countryCode": "BE",
+              "countryCodeThree": "BEL",
+              "countryName": "比利时",
+              "countryNameEn": "Belgium",
+              "inteAreaCode": "32"
+          },
+          {
+              "countryCode": "FR",
+              "countryCodeThree": "FRA",
+              "countryName": "法国",
+              "countryNameEn": "France",
+              "inteAreaCode": "33"
+          },
+          {
+              "countryCode": "SI",
+              "countryCodeThree": "SVN",
+              "countryName": "斯洛文尼亚",
+              "countryNameEn": "Slovenia",
+              "inteAreaCode": "386"
+          },
+          {
+              "countryCode": "DE",
+              "countryCodeThree": "DEU",
+              "countryName": "德国",
+              "countryNameEn": "Germany",
+              "inteAreaCode": "49"
+          },
+          {
+              "countryCode": "IT",
+              "countryCodeThree": "ITA",
+              "countryName": "意大利",
+              "countryNameEn": "Italy",
+              "inteAreaCode": "39"
+          },
+          {
+              "countryCode": "SK",
+              "countryCodeThree": "SVK",
+              "countryName": "斯洛伐克",
+              "countryNameEn": "Slovakia",
+              "inteAreaCode": "421"
+          },
+          {
+              "countryCode": "ES",
+              "countryCodeThree": "ESP",
+              "countryName": "西班牙",
+              "countryNameEn": "Spain",
+              "inteAreaCode": "34"
+          },
+          {
+              "countryCode": "EE",
+              "countryCodeThree": "EST",
+              "countryName": "爱沙尼亚",
+              "countryNameEn": "Estonia",
+              "inteAreaCode": "372"
+          }
+      ],
+      "msg": "success",
+      "success": true
+  }
+----------------------------------RESPONSE-----------------------------------
+2020-10-19 16:21:13 - {}
+2020-10-19 16:21:13 - 
+----------------------------------REQUEST------------------------------------
+endpoint: POST https://mobile-hwdev2-site.jtmm.com/goodscenter/address/queryAllCountryInfo
+headers:
+  User-Agent: python-requests/2.23.0
+  Accept-Encoding: gzip, deflate
+  Accept: */*
+  Connection: keep-alive
+  Content-Type: application/json
+  Content-Length: 2
+body:
+ {}
+----------------------------------REQUEST------------------------------------
+2020-10-19 16:21:13 - 
+----------------------------------RESPONSE-----------------------------------
+status_code: 200
+headers:
+  Date: Mon, 19 Oct 2020 08:19:16 GMT
+  Content-Type: application/json
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  Server: Tengine
+  Vary: Accept-Encoding, Accept-Encoding
+  Access-Control-Allow-Origin: *
+  X-Kong-Upstream-Latency: 5
+  X-Kong-Proxy-Latency: 0
+  Via: kong/2.0.4
+  Content-Encoding: gzip
+body:
+  {
+      "code": "0",
+      "data": [
+          {
+              "countryCode": "SE",
+              "countryCodeThree": "SWE",
+              "countryName": "瑞典",
+              "countryNameEn": "Sweden",
+              "inteAreaCode": "46"
+          },
+          {
+              "countryCode": "LV",
+              "countryCodeThree": "LVA",
+              "countryName": "拉脱维亚",
+              "countryNameEn": "Latvia",
+              "inteAreaCode": "371"
+          },
+          {
+              "countryCode": "CZ",
+              "countryCodeThree": "CZE",
+              "countryName": "捷克",
+              "countryNameEn": "Czech Republic",
+              "inteAreaCode": "420"
+          },
+          {
+              "countryCode": "PL",
+              "countryCodeThree": "POL",
+              "countryName": "波兰",
+              "countryNameEn": "Poland",
+              "inteAreaCode": "48"
+          },
+          {
+              "countryCode": "HR",
+              "countryCodeThree": "HRV",
+              "countryName": "克罗地亚",
+              "countryNameEn": "Croatia",
+              "inteAreaCode": "385"
+          },
+          {
+              "countryCode": "PT",
+              "countryCodeThree": "PRT",
+              "countryName": "葡萄牙",
+              "countryNameEn": "Portugal",
+              "inteAreaCode": "351"
+          },
+          {
+              "countryCode": "NL",
+              "countryCodeThree": "NLD",
+              "countryName": "荷兰",
+              "countryNameEn": "Netherlands",
+              "inteAreaCode": "31"
+          },
+          {
+              "countryCode": "AM",
+              "countryCodeThree": "ARM",
+              "countryName": "亚美尼亚",
+              "countryNameEn": "Armenia",
+              "inteAreaCode": "374"
+          },
+          {
+              "countryCode": "FI",
+              "countryCodeThree": "FIN",
+              "countryName": "芬兰",
+              "countryNameEn": "Finland",
+              "inteAreaCode": "358"
+          },
+          {
+              "countryCode": "CY",
+              "countryCodeThree": "CYP",
+              "countryName": "塞浦路斯",
+              "countryNameEn": "Cyprus",
+              "inteAreaCode": "357"
+          },
+          {
+              "countryCode": "RO",
+              "countryCodeThree": "ROU",
+              "countryName": "罗马尼亚",
+              "countryNameEn": "Romania",
+              "inteAreaCode": "385"
+          },
+          {
+              "countryCode": "GB",
+              "countryCodeThree": "GBR",
+              "countryName": "英国",
+              "countryNameEn": "Great Britain (United Kingdom; England)",
+              "inteAreaCode": "44"
+          },
+          {
+              "countryCode": "HU",
+              "countryCodeThree": "HUN",
+              "countryName": "匈牙利",
+              "countryNameEn": "Hungary",
+              "inteAreaCode": "36"
+          },
+          {
+              "countryCode": "MT",
+              "countryCodeThree": "MLT",
+              "countryName": "马耳他",
+              "countryNameEn": "Malta",
+              "inteAreaCode": "356"
+          },
+          {
+              "countryCode": "BG",
+              "countryCodeThree": "BGR",
+              "countryName": "保加利亚",
+              "countryNameEn": "Bulgaria",
+              "inteAreaCode": "359"
+          },
+          {
+              "countryCode": "UA",
+              "countryCodeThree": "UKR",
+              "countryName": "乌克兰",
+              "countryNameEn": "Ukraine",
+              "inteAreaCode": "380"
+          },
+          {
+              "countryCode": "LU",
+              "countryCodeThree": "LUX",
+              "countryName": "卢森堡",
+              "countryNameEn": "Luxembourg",
+              "inteAreaCode": "352"
+          },
+          {
+              "countryCode": "LT",
+              "countryCodeThree": "LTU",
+              "countryName": "立陶宛",
+              "countryNameEn": "Lithuania",
+              "inteAreaCode": "370"
+          },
+          {
+              "countryCode": "DK",
+              "countryCodeThree": "DNK",
+              "countryName": "丹麦",
+              "countryNameEn": "Denmark",
+              "inteAreaCode": "45"
+          },
+          {
+              "countryCode": "GR",
+              "countryCodeThree": "GRC",
+              "countryName": "希腊",
+              "countryNameEn": "Greece",
+              "inteAreaCode": "30"
+          },
+          {
+              "countryCode": "IE",
+              "countryCodeThree": "IRL",
+              "countryName": "爱尔兰",
+              "countryNameEn": "Ireland",
+              "inteAreaCode": "353"
+          },
+          {
+              "countryCode": "BE",
+              "countryCodeThree": "BEL",
+              "countryName": "比利时",
+              "countryNameEn": "Belgium",
+              "inteAreaCode": "32"
+          },
+          {
+              "countryCode": "FR",
+              "countryCodeThree": "FRA",
+              "countryName": "法国",
+              "countryNameEn": "France",
+              "inteAreaCode": "33"
+          },
+          {
+              "countryCode": "SI",
+              "countryCodeThree": "SVN",
+              "countryName": "斯洛文尼亚",
+              "countryNameEn": "Slovenia",
+              "inteAreaCode": "386"
+          },
+          {
+              "countryCode": "DE",
+              "countryCodeThree": "DEU",
+              "countryName": "德国",
+              "countryNameEn": "Germany",
+              "inteAreaCode": "49"
+          },
+          {
+              "countryCode": "IT",
+              "countryCodeThree": "ITA",
+              "countryName": "意大利",
+              "countryNameEn": "Italy",
+              "inteAreaCode": "39"
+          },
+          {
+              "countryCode": "SK",
+              "countryCodeThree": "SVK",
+              "countryName": "斯洛伐克",
+              "countryNameEn": "Slovakia",
+              "inteAreaCode": "421"
+          },
+          {
+              "countryCode": "ES",
+              "countryCodeThree": "ESP",
+              "countryName": "西班牙",
+              "countryNameEn": "Spain",
+              "inteAreaCode": "34"
+          },
+          {
+              "countryCode": "EE",
+              "countryCodeThree": "EST",
+              "countryName": "爱沙尼亚",
+              "countryNameEn": "Estonia",
+              "inteAreaCode": "372"
+          }
+      ],
+      "msg": "success",
+      "success": true
+  }
+----------------------------------RESPONSE-----------------------------------
+2020-10-19 21:26:04 - {'success': True, 'code': '0', 'data': {'token': '2b595da9f6be0d0a7f40aa6232cddb2b|tiens', 'uid': 120, 'passwordResetFlag': 0, 'passwordResetTime': None}, 'msg': 'success'}
+2020-10-25 18:54:50 - {'success': True, 'code': '0', 'data': {'token': '1789497d790f5433c11e1d9e20bddd5a|tiens', 'uid': 120, 'passwordResetFlag': 0, 'passwordResetTime': None}, 'msg': 'success'}
+2020-11-01 11:26:42 - {'success': True, 'code': '0', 'data': {'token': '20cf0bd14e952ab8b4cab883fedd9331|tiens', 'uid': 120, 'passwordResetFlag': 0, 'passwordResetTime': None}, 'msg': 'success'}
